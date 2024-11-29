@@ -44,4 +44,4 @@ def mostrar_histograma(path, canal):
     plt.show()
 
 mostrar_histograma('imagenes/brain.png', 'r')
-mostrar_histograma('imagenes/brain.png', 'r')
+mostrar_histograma('imagenes/brain_encrypted.png', 'r')
