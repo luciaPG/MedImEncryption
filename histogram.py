@@ -43,9 +43,5 @@ def mostrar_histograma(path, canal):
     plt.tight_layout()
     plt.show()
 
-# Llamadas a la función
-mostrar_histograma('resources/brain.png', 'r')
-
-
-
-mostrar_histograma('resources/brain_encrypted.png', 'r')
+mostrar_histograma('imagenes/brain.png', 'r')
+mostrar_histograma('imagenes/brain.png', 'r')
