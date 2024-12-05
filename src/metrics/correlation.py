@@ -46,6 +46,6 @@ def analizar_correlacion_pixeles(path, num_pares=5000):
     plt.tight_layout()
     plt.show()
 
-analizar_correlacion_pixeles('imagenes/brain.png')
-analizar_correlacion_pixeles('imagenes/brain_encrypted.png')
+#analizar_correlacion_pixeles('images/babuino.jpg')
+#analizar_correlacion_pixeles('encrypted-images/encrypted_babuino.png')
 

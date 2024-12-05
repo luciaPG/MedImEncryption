@@ -1,0 +1,62 @@
+# Archivos y carpetas de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración personal
+*.env
+*.local
+*.log
+decrypted-images/
+encrypted-images/
+
+# Archivos de compilación
+dist/
+build/
+out/
+
+# Archivos de dependencias de Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+
+# Archivos de Java y Maven
+target/
+*.class
+
+# Archivos de JavaScript/TypeScript
+*.tsbuildinfo
+coverage/
+
+# Archivos de Ruby on Rails
+*.rbc
+*.sass-cache/
+.rspec
+db/*.sqlite3
+db/*.sqlite3-journal
+log/
+tmp/
+
+# Archivos de .NET
+bin/
+obj/
+
+# Otros
+*.bak
+*.swp
+*.tmp
+*.backup

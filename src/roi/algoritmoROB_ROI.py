@@ -35,7 +35,7 @@ def process_image(image_path, block_size, threshold):
 
 def main():
     for i in range(1, 4):
-        image_path = f"imagenes\prueba{i}.jpg"
+        image_path = f"images\prueba{i}.jpg"
     # Parameters
         block_size = 16  # Block size (s)
         threshold = 30   # Statistical threshold (τ)
