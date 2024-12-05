@@ -8,6 +8,7 @@ Thumbs.db
 *.log
 decrypted-images/
 encrypted-images/
+/env
 
 # Archivos de compilación
 dist/
