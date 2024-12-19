@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando la aplicacion...
+python src\app.py
